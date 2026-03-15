@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="60" fill="#18181b"/>
+  <!-- QR Code pattern -->
+  <g fill="#ffffff">
+    <!-- Top-left finder pattern -->
+    <rect x="110" y="90" width="90" height="90" rx="6"/>
+    <rect x="122" y="102" width="66" height="66" rx="4" fill="#18181b"/>
+    <rect x="136" y="116" width="38" height="38" rx="2" fill="#ffffff"/>
+    <!-- Top-right finder pattern -->
+    <rect x="300" y="90" width="90" height="90" rx="6"/>
+    <rect x="312" y="102" width="66" height="66" rx="4" fill="#18181b"/>
+    <rect x="326" y="116" width="38" height="38" rx="2" fill="#ffffff"/>
+    <!-- Bottom-left finder pattern -->
+    <rect x="110" y="260" width="90" height="90" rx="6"/>
+    <rect x="122" y="272" width="66" height="66" rx="4" fill="#18181b"/>
+    <rect x="136" y="286" width="38" height="38" rx="2" fill="#ffffff"/>
+    <!-- Data modules row 1 -->
+    <rect x="220" y="95" width="25" height="25" rx="3"/>
+    <rect x="255" y="95" width="25" height="25" rx="3"/>
+    <rect x="220" y="150" width="25" height="25" rx="3"/>
+    <!-- Data modules row 2 -->
+    <rect x="255" y="130" width="25" height="25" rx="3"/>
+    <rect x="220" y="200" width="25" height="25" rx="3"/>
+    <rect x="290" y="200" width="25" height="25" rx="3"/>
+    <rect x="360" y="200" width="25" height="25" rx="3"/>
+    <!-- Data modules row 3 -->
+    <rect x="110" y="200" width="25" height="25" rx="3"/>
+    <rect x="150" y="200" width="25" height="25" rx="3"/>
+    <rect x="255" y="200" width="25" height="25" rx="3"/>
+    <!-- Bottom-right data -->
+    <rect x="220" y="265" width="25" height="25" rx="3"/>
+    <rect x="255" y="265" width="25" height="25" rx="3"/>
+    <rect x="300" y="265" width="25" height="25" rx="3"/>
+    <rect x="365" y="265" width="25" height="25" rx="3"/>
+    <rect x="220" y="300" width="25" height="25" rx="3"/>
+    <rect x="300" y="300" width="25" height="25" rx="3"/>
+    <rect x="335" y="300" width="25" height="25" rx="3"/>
+    <rect x="255" y="335" width="25" height="25" rx="3"/>
+    <rect x="335" y="335" width="25" height="25" rx="3"/>
+    <rect x="365" y="335" width="25" height="25" rx="3"/>
+  </g>
+  <text x="250" y="430" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#ffffff">QR CODE</text>
+</svg>
